@@ -1,0 +1,2 @@
+# testCloneMerge
+test
